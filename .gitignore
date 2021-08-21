@@ -1,2 +1,4 @@
-bin
+bin/detect
+bin/build
+bin/release
 .idea
